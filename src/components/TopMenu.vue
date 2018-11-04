@@ -5,11 +5,11 @@
   <b-collapse is-nav id="nav_collapse">
     <!-- Right aligned nav items -->
     <b-navbar-nav class="ml-auto">
-      <b-nav-item>Home</b-nav-item>
-      <b-nav-item>Projects</b-nav-item>
-      <b-nav-item>Skills</b-nav-item>
-      <b-nav-item>Bio</b-nav-item>
-      <b-nav-item>Contact</b-nav-item>
+      <b-nav-item class="uppercase">Home</b-nav-item>
+      <b-nav-item  class="uppercase">Projects</b-nav-item>
+      <b-nav-item  class="uppercase">Skills</b-nav-item>
+      <b-nav-item  class="uppercase">Bio</b-nav-item>
+      <b-nav-item  class="uppercase">Contact</b-nav-item>
     </b-navbar-nav>
   </b-collapse>
 </b-navbar>
