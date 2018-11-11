@@ -15,6 +15,17 @@ import BootstrapVue from 'bootstrap-vue';
 Vue.use(BootstrapVue);
 import 'bootstrap/dist/css/bootstrap.css';
 import 'bootstrap-vue/dist/bootstrap-vue.css';
+// Libraries
+import Vuetify from 'vuetify';
+
+// Helpers
+import colors from 'vuetify/es5/util/colors';
+
+Vue.use(Vuetify, {
+  theme: {
+    primary: colors.blue.darken4,
+  },
+});
 import HelloWorld from './components/HelloWorld.vue';
 import TopMenu from './components/TopMenu.vue';
 import Intro from './components/Intro.vue';
@@ -40,10 +51,6 @@ export default class App extends Vue {}
 <style lang="scss">
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
   margin-top: 60px;
 
   .uppercase {
