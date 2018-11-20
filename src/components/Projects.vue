@@ -1,6 +1,11 @@
 <template>
   <div>
-<h2>Projects works!</h2>
+    <h1>Projects</h1>
+    <div class="row">
+      <div class="col col-4">
+        <p>Nome do projeto</p>
+      </div>
+    </div>
   </div>
 </template>
 

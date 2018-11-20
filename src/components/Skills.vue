@@ -1,6 +1,12 @@
 <template>
   <div>
-    <h2>Skills works!</h2>
+    <h1>Skills</h1>
+    <div class="row">
+      <div class="col col-3">
+        <h1>Badge</h1>
+        <p>Skill name</p>
+      </div>
+    </div>
   </div>
 </template>
 

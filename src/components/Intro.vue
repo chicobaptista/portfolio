@@ -1,6 +1,7 @@
 <template>
   <div>
-    <h2>Intro works!</h2>
+    <h1>Hello, my name is Francisco Llamosas</h1>
+    <p>I'm a developer that enjoys the whole stack and a blockchain enthusiast</p>
   </div>
 </template>
 

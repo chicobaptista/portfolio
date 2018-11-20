@@ -1,6 +1,15 @@
 <template>
   <div>
-    <h2>Bio works!</h2>
+    <h1>Bio</h1>
+    <div class="row">
+      <div class="col col-6">
+        <h4>Education</h4>
+        <p>Course name</p>
+        <p>Course type</p>
+        <p>Course duration</p>
+        <p>Institution</p>
+      </div>
+    </div>
   </div>
 </template>
 
