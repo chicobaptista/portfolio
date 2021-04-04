@@ -1,5 +1,5 @@
 # Portfolio
-Vue implementation of a personal portfolio page. It will showcase frontend skills as well, for building the portfolio itself, as well as the individual projects featured.
+Vue implementation of a personal portfolio page. It will showcase frontend skills for building the portfolio itself, as well as the individual projects featured.
 
 ## Project setup
 ```
