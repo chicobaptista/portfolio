@@ -1,4 +1,5 @@
-# fbaptista-portfolio
+# Portfolio
+Vue implementation of a personal portfolio page. It will showcase frontend skills as well, for building the portfolio itself, as well as the individual projects featured.
 
 ## Project setup
 ```
@@ -24,6 +25,3 @@ npm run test
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
